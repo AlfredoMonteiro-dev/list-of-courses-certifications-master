@@ -19,8 +19,8 @@ Reserved repository to list a little of my `academic life.`
 
 ## Languages <a name="language"></a> :round_pushpin:
 
-- **Portuguese:** Native speaker, I am Brazilian:brazil:
-- **English:** advanced
+- **Portuguese:** Native speaker, I am Brazilian: brazil.
+- **English:** advanced.
 
 ## Courses <a name="courses"></a> :pencil2:
 
