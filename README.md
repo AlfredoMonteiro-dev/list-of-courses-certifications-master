@@ -14,7 +14,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Certification <a name="certification"></a> :star:
 
-- Full Syack Turbo. _School: [TipsCode](https://tipscode.tech/)._ _Duration: 120h._ Certificate coming soon. <!-- >:paperclip: [here]() -->
+- Full Stack Turbo. _School: [TipsCode](https://tipscode.tech/)._ _Duration: 120h._ Certificate coming soon. <!-- >:paperclip: [here]() -->
 <!-- <img src="img/badge_ocajp8.png" height=180 width=180> -->
 
 ## Languages <a name="language"></a> :round_pushpin:
