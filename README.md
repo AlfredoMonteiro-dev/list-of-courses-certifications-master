@@ -29,8 +29,7 @@ Below is a list of the courses I completed. There are currently `12` courses wit
 
 #### Git
 
-- Git and GitHub: From Basic to Advanced. _School: [Udemy](https://www.udemy.com/)._ _Duration: 8h._ :paperclip: [here](hhttps://www.udemy.com/certificate/UC-21f2e301-e98b-4554-a6da-3b56eab4a7b1/)
-
+- Git and GitHub: From Basic to Advanced. _School: [Udemy](https://www.udemy.com/)._ _Duration: 8h._ :paperclip: [here](https://www.udemy.com/certificate/UC-21f2e301-e98b-4554-a6da-3b56eab4a7b1/)
 
 #### front - End
 
