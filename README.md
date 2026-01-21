@@ -1,11 +1,11 @@
 # My academic life :white_check_mark:
 
-Reserved repository to list a little of my `academic life.`:heart_eyes:
+Reserved repository to list a little of my `academic life.`
 
 ## Index :pushpin:
 - [Academic Education](#education)
 - [Certification](#certification)
-- [Languages](#languages)
+- [Languages](#language)
 - [Courses](#courses)
 
 ## Academic Education <a name="education"></a> :mortar_board:
