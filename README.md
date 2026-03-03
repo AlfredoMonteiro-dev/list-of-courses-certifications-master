@@ -14,13 +14,13 @@ Reserved repository to list a little of my `academic life.`
 
 ## Certification <a name="certification"></a> :star:
 
-- Full Syack Turbo. _School: [TipsCode](https://tipscode.tech/)._ _Duration: 120h._ Certificate coming soon. <!-- >:paperclip: [here]() -->
+- FullStack Pro. _School: [Sujeito Programador](https://sujeitoprogramador.com/fullstackpro/)._ _Duration: 90hrs._ Certificate coming soon. <!-- >:paperclip: [here]() -->
 <!-- <img src="img/badge_ocajp8.png" height=180 width=180> -->
 
 ## Languages <a name="language"></a> :round_pushpin:
 
 - **Portuguese:** Native speaker, I am Brazilian:brazil:
-- **English:** advanced
+- **English:** 
 
 ## Courses <a name="courses"></a> :pencil2:
 
