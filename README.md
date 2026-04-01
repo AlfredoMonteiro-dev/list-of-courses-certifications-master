@@ -42,7 +42,7 @@ Below is a list of the courses I completed. There are currently `12` courses wit
 - Front-end web development with React: introduction part 1. _School: [OCEAN](https://oceanbrasil.com/)._ _Duration: 3h._ :paperclip: [here](https://oceanbrasil.com/certificado/cm686wurv0008zrb690lxzsmm_5614)
 - Front-end web development with React: introduction part 2. _School: [OCEAN](https://oceanbrasil.com/)._ _Duration: 3h._ :paperclip: [here](https://oceanbrasil.com/certificado/cm6d51h6p0007fyez2gebubql_5615)
 - Front-end web development with React: back-end integration part 1. _School: [OCEAN](https://oceanbrasil.com/)._ _Duration: 3h._ :paperclip: [here](https://oceanbrasil.com/certificado/cm6ksafk9000y4o3072nxy70z_5623)
-- Front-end web development with React: introduction part 2. _School: [OCEAN](https://oceanbrasil.com/)._ _Duration: 3h._ :paperclip: [here](https://oceanbrasil.com/certificado/cm6ksa41o00084o30t7jlg7u1_5624)
+- Front-end web development with React: back-end integration part 2. _School: [OCEAN](https://oceanbrasil.com/)._ _Duration: 3h._ :paperclip: [here](https://oceanbrasil.com/certificado/cm6ksa41o00084o30t7jlg7u1_5624)
 
 
 #### Agile development
