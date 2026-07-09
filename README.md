@@ -10,7 +10,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Academic Education <a name="education"></a> :mortar_board:
 
-- `Bachelor's degree in software engineering` - (UNINTER) International University Center _(Brazil) [website](https://www.uninter.com/). 2022-2026. :paperclip: [here](certificates/university-bachelor-degree.png)
+- `Bachelor's degree in software engineering` - (UNINTER) International University Center _(Brazil) [website](https://www.uninter.com/). 2022-2026. :paperclip: [here](certificates/university-bachelor-degree.jpg)
 
 ## Certification <a name="certification"></a> :star:
 
